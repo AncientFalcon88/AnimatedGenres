@@ -40,6 +40,10 @@
     "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedGenres/main/Art%20House%20Animation.mp4"
   },
   {
+    "title": "Biography",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedGenres/main/Biography.mp4"
+  },
+  {
     "title": "Classics",
     "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedGenres/main/Classics.mp4"
   },
@@ -118,6 +122,10 @@
   {
     "title": "International",
     "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedGenres/main/International.mp4"
+  },
+  {
+    "title": "K-Drama",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedGenres/main/K-Drama.mp4"
   },
   {
     "title": "Kids",
